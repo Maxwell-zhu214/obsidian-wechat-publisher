@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-wechat-publisher",
+  "name": "Obsidian WeChat Publisher",
+  "version": "1.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "A local, one-click WeChat Drafts Box sync plugin.",
+  "author": "铭泽律师 (Maxwell)",
+  "authorUrl": "https://github.com",
+  "isDesktopOnly": true
+}

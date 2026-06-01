@@ -6,8 +6,6 @@ Obsidian WeChat Publisher 是一个用于将 Obsidian 本地 Markdown 笔记一�
 
 ## 📷 功能效果预览 (Screenshots)
 
-*(注：您可以将您的插件运行截图命名为 `screenshot_preview.png` 并放入 `assets/` 文件夹中即可在此处正常展示)*
-
 ![双栏排版实时预览与微信端模拟器](assets/screenshot_preview.png)
 
 ---
@@ -49,8 +47,6 @@ Obsidian WeChat Publisher 是一个用于将 Obsidian 本地 Markdown 笔记一�
 
 如果您在使用过程中遇到任何问题，或者希望交流法律 AI、自媒体排版以及数字化效率工具，欢迎关注我的微信公众号或添加我的个人微信。
 
-*(注：请将您自己的二维码图片重命名为 `qrcode_mp.png` 和 `qrcode_personal.png` 并放入项目根目录下的 `assets/` 文件夹中即可在此处正常显示)*
-
 | 微信公众号 | 个人微信 |
 | :---: | :---: |
-| ![微信公众号](assets/qrcode_mp.png) <br> **微信公众号：铭泽说Mingtalk** | ![个人微信](assets/qrcode_personal.png) <br> **个人微信：铭泽律师** |
+| <img src="assets/qrcode_mp.png" width="220" alt="微信公众号"/> <br> **微信公众号：铭泽说Mingtalk** | <img src="assets/qrcode_personal.png" width="220" alt="个人微信"/> <br> **个人微信：铭泽律师** |

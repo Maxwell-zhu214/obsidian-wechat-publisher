@@ -1,14 +1,18 @@
+<div align="center">
+
+<img src="assets/plugin_logo.png" width="220" alt="Obsidian WeChat Publisher"/>
+
 # Obsidian WeChat Publisher
+
+面向自媒体创作者与法律人的本地一键微信排版与草稿箱直连同步插件。
+
+</div>
 
 Obsidian WeChat Publisher 是一个用于将 Obsidian 本地 Markdown 笔记一键渲染并无缝同步至微信公众号草稿箱的开源插件。本插件采用完全本地化的架构设计，无需中转服务器，直接保障自媒体创作者的数据与账号安全。
 
 ---
 
 ## 👨‍💼 关于作者 (About the Author)
-
-<div align="center">
-  <img src="assets/brand_card.png" width="100%" alt="铭泽律师 Maxwell"/>
-</div>
 
 ### 铭泽律师 (Maxwell) | AI LAWYER
 > **探索法律、技术与商业的交汇点**

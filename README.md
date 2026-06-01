@@ -35,7 +35,7 @@ Obsidian WeChat Publisher 是一个用于将 Obsidian 本地 Markdown 笔记一�
 
 ---
 
-## 🔑 隐私安全说明 (Security & Privacy)
+<h2 align="center">🔑 隐私安全说明 (Security & Privacy)</h2>
 
 本插件经过严格的安全审计，保障您的数据隐私：
 1. **零密钥泄露**：敏感的 AppID 与 AppSecret 仅存储于您本地 Vault 插件文件夹下的 `data.json` 中，绝不上传。
@@ -44,7 +44,7 @@ Obsidian WeChat Publisher 是一个用于将 Obsidian 本地 Markdown 笔记一�
 
 ---
 
-## ✨ 核心优势与功能 (Key Features & Advantages)
+<h2 align="center">✨ 核心优势与功能 (Key Features & Advantages)</h2>
 
 *   **开发者署名与公益免费**：由 **铭泽律师 (Maxwell)** 专为法律人与自媒体创作者开发，完全免费且供全社区公益使用。
 *   **双栏实时预览 (Live Preview Simulator)**：可在 Obsidian 内部一键开启与微信移动端 100% 像素级对齐的预览模拟器。编辑正文时，预览窗口支持实时同步渲染，彻底告别在第三方编辑器之间反复复制粘贴的繁琐流程。
@@ -57,7 +57,7 @@ Obsidian WeChat Publisher 是一个用于将 Obsidian 本地 Markdown 笔记一�
 
 ---
 
-## 🛠️ 安装方法
+<h2 align="center">🛠️ 安装方法</h2>
 
 ### 手动安装 (Manual Installation)
 1. 下载本仓库中的 `main.js` 与 `manifest.json` 文件。
@@ -68,7 +68,7 @@ Obsidian WeChat Publisher 是一个用于将 Obsidian 本地 Markdown 笔记一�
 
 ---
 
-## 💬 联系与交流 (Contact)
+<h2 align="center">💬 联系与交流 (Contact)</h2>
 
 如果您在使用过程中遇到任何问题，或者希望交流法律 AI、自媒体创作以及数字化效率工具，欢迎关注我的微信公众号或添加我的个人微信。
 

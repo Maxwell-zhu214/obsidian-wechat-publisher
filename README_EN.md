@@ -35,7 +35,7 @@ AI & LegalTech · Data Compliance & Cybersecurity · Cross-border Legal Services
 
 ---
 
-## 🔑 Security & Privacy Audit
+<h2 align="center">🔑 Security & Privacy Audit</h2>
 
 This plugin undergoes rigorous security checks to guarantee your privacy:
 1. **Zero Secret Leakage**: Your sensitive AppID and AppSecret credentials are stored purely inside the `data.json` configuration file within your local Obsidian Vault plugin folder.
@@ -44,7 +44,7 @@ This plugin undergoes rigorous security checks to guarantee your privacy:
 
 ---
 
-## ✨ Key Features & Advantages
+<h2 align="center">✨ Key Features & Advantages</h2>
 
 *   **MIT Licensed & Free**: Developed by **Maxwell (Mingze)** for legal professionals and self-media creators, distributed as public welfare open-source software.
 *   **Side-by-Side Live Preview**: Open an interactive mobile simulator inside Obsidian that aligns 100% with the WeChat layout. Visual rendering updates instantly as you edit, saving you from repetitive copy-pasting.
@@ -57,7 +57,7 @@ This plugin undergoes rigorous security checks to guarantee your privacy:
 
 ---
 
-## 🛠️ Installation Guide
+<h2 align="center">🛠️ Installation Guide</h2>
 
 ### Manual Installation
 1. Download `main.js` and `manifest.json` from the latest repository files.
@@ -68,7 +68,7 @@ This plugin undergoes rigorous security checks to guarantee your privacy:
 
 ---
 
-## 💬 Contact & Collaboration
+<h2 align="center">💬 Contact & Collaboration</h2>
 
 If you encounter any issues or wish to discuss legal AI, self-media creation, or digital efficiency tools, feel free to follow my WeChat Official Account or add me on WeChat.
 

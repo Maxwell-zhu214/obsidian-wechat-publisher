@@ -14,9 +14,7 @@ Obsidian WeChat Publisher 是一个用于将 Obsidian 本地 Markdown 笔记一�
 
 ---
 
-## 👨‍💼 关于作者 (About the Author)
-
-<div align="center">
+<h2 align="center">👨‍💼 关于作者 (About the Author)</h2>
 
 ### 铭泽律师 (Maxwell) | AI LAWYER
 **探索法律、技术与商业的交汇点**
@@ -28,13 +26,12 @@ Obsidian WeChat Publisher 是一个用于将 Obsidian 本地 Markdown 笔记一�
 **内容创作工坊**：AI 驱动的专业内容创作平台  
 **法韵**：面向法律人的智能知识与效率工具
 
-</div>
-
 ---
 
-## 📷 功能效果预览 (Screenshots)
+<h2 align="center">📷 功能效果预览 (Screenshots)</h2>
 
 ![双栏排版实时预览与微信端模拟器](assets/screenshot_preview.png)
+
 
 ---
 

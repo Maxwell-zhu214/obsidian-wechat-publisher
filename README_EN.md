@@ -14,9 +14,7 @@ Obsidian WeChat Publisher is an open-source plugin designed to format and seamle
 
 ---
 
-## 👨‍💼 About the Author
-
-<div align="center">
+<h2 align="center">👨‍💼 About the Author</h2>
 
 ### Maxwell (Mingze) | AI LAWYER
 **Exploring the intersection of law, technology, and business**
@@ -28,13 +26,12 @@ AI & LegalTech · Data Compliance & Cybersecurity · Cross-border Legal Services
 **Content Creation Workshop**: An AI-driven professional content creation platform  
 **Fayun**: Intelligent knowledge and efficiency tools for legal professionals
 
-</div>
-
 ---
 
-## 📷 Screenshots
+<h2 align="center">📷 Screenshots</h2>
 
 ![Split-screen live preview and WeChat simulator](assets/screenshot_preview.png)
+
 
 ---
 

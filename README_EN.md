@@ -1,17 +1,3 @@
----
-kind: project
-status: active
-title: "App_WeChat_Publisher_README_EN"
-tags:
-  - projects/app
-  - docs/readme
-date_created: '2026-06-02'
-date_modified: '2026-06-02'
-maverick_path: null
-sync_scope: obsidian_only
-owner_agent: Codex
----
-
 <div align="center">
 
 <img src="assets/plugin_logo.png" width="220" alt="Obsidian WeChat Publisher"/>

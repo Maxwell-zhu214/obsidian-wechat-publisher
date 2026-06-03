@@ -109,8 +109,15 @@ class WeChatPublisherPlugin extends Plugin {
   }
 
   cleanEmptyParagraphs(tempEl) {
-    tempEl.querySelectorAll('p, blockquote').forEach(el => {
+    // 清理空段落、空引用以及空列表项（防止微信端渲染出空白的 bullet 点）
+    tempEl.querySelectorAll('p, blockquote, li').forEach(el => {
       if (!el.textContent.trim() && el.innerHTML.indexOf('<img') === -1 && el.innerHTML.indexOf('<span') === -1) {
+        el.remove();
+      }
+    });
+    // 清理因空列表项被移除后可能剩下的空列表容器
+    tempEl.querySelectorAll('ul, ol').forEach(el => {
+      if (!el.textContent.trim() && el.querySelectorAll('img').length === 0 && el.querySelectorAll('span').length === 0) {
         el.remove();
       }
     });

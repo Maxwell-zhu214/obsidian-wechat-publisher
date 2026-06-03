@@ -1,3 +1,17 @@
+---
+kind: project
+status: active
+title: "App_WeChat_Publisher_README_EN"
+tags:
+  - projects/app
+  - docs/readme
+date_created: '2026-06-02'
+date_modified: '2026-06-02'
+maverick_path: null
+sync_scope: obsidian_only
+owner_agent: Codex
+---
+
 <div align="center">
 
 <img src="assets/plugin_logo.png" width="220" alt="Obsidian WeChat Publisher"/>
@@ -16,15 +30,9 @@ Obsidian WeChat Publisher is an open-source plugin designed to format and seamle
 
 <h2 align="center">👨‍💼 About the Author</h2>
 
-### Maxwell (Mingze) | AI LAWYER
-**Exploring the intersection of law, technology, and business**
-
-#### 🔍 Focus Areas
-AI & LegalTech · Data Compliance & Cybersecurity · Cross-border Legal Services · Low-Altitude Economy & Emerging Industry Compliance
-
-#### ⚙️ AI Applications
-**Content Creation Workshop**: An AI-driven professional content creation platform  
-**Fayun**: Intelligent knowledge and efficiency tools for legal professionals
+<div align="center">
+  <img src="assets/brand_profile.png" width="500" alt="About the Author"/>
+</div>
 
 ---
 

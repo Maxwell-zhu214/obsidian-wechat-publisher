@@ -1,3 +1,17 @@
+---
+kind: project
+status: active
+title: "App_WeChat_Publisher_README"
+tags:
+  - projects/app
+  - docs/readme
+date_created: '2026-06-02'
+date_modified: '2026-06-02'
+maverick_path: null
+sync_scope: obsidian_only
+owner_agent: Codex
+---
+
 <div align="center">
 
 <img src="assets/plugin_logo.png" width="220" alt="Obsidian WeChat Publisher"/>
@@ -16,15 +30,9 @@ Obsidian WeChat Publisher 是一个用于将 Obsidian 本地 Markdown 笔记一�
 
 <h2 align="center">👨‍💼 关于作者 (About the Author)</h2>
 
-### 铭泽律师 (Maxwell) | AI LAWYER
-**探索法律、技术与商业的交汇点**
-
-#### 🔍 关注领域
-人工智能与法律科技 · 数据合规与网络安全 · 跨境法律服务 · 低空经济与新兴产业合规
-
-#### ⚙️ AI 应用研发
-**内容创作工坊**：AI 驱动的专业内容创作平台  
-**法韵**：面向法律人的智能知识与效率工具
+<div align="center">
+  <img src="assets/brand_profile.png" width="500" alt="关于作者"/>
+</div>
 
 ---
 
